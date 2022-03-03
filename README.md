@@ -1,1 +1,2 @@
 # dsn
+websocket aggregator
